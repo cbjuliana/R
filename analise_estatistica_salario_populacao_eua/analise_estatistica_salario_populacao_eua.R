@@ -1,5 +1,7 @@
+#Estatística
+
 #Definindo o diretório de trabalho
-setwd("C:/Projetos/Git/pos/estatistica/r/analise_salario_populacao_eua")
+setwd("C:/Projetos/Git/pos/estatistica/r/analise_estatistica_salario_populacao_eua")
 
 #Carregando a Base de Dados
 dados <- read.csv("Dados.csv", header = T, sep = ";", dec = ",")

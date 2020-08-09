@@ -1,9 +1,9 @@
 # -----------------------------------------------
-#  Trabalho Final - Juliana
+# Inferência Estatística
 # -----------------------------------------------
 
 # Mudando o diretório
-setwd("C:/Users/Juliana/Desktop/Inferencia Estatistica/TRABALHO FINAL")
+setwd("C:/Projetos/Git/pos/r/analise_inferencia_salario_populacao_eua")
 
 #Pacotes
 library(fBasics) # Estatística Básicas
